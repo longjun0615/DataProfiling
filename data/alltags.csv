@@ -1,0 +1,150 @@
+tag_id,Tag Class/Domain:Tag Name,Tag ID
+100010002,Generic Data Domain.Address:City:TG100010002,TG100010002
+100010008,Generic Data Domain.Address:Country:TG100010008,TG100010008
+100010003,Generic Data Domain.Address:County:TG100010003,TG100010003
+100010004,Generic Data Domain.Address:District:TG100010004,TG100010004
+100010005,Generic Data Domain.Address:Division:TG100010005,TG100010005
+100010013,Generic Data Domain.Address:Full Address:TG100010013,TG100010013
+100010014,Generic Data Domain.Address:Full Work Address:TG100010014,TG100010014
+100010011,Generic Data Domain.Address:Post Box:TG100010011,TG100010011
+100010012,Generic Data Domain.Address:Post Code:TG100010012,TG100010012
+100010007,Generic Data Domain.Address:Region:TG100010007,TG100010007
+100010006,Generic Data Domain.Address:State:TG100010006,TG100010006
+100010001,Generic Data Domain.Address:Street Address:TG100010001,TG100010001
+100010009,Generic Data Domain.Address:USZip 5digit:TG100010009,TG100010009
+100010010,Generic Data Domain.Address:USZip Code:TG100010010,TG100010010
+100020001,Generic Data Domain.Advanced Profile:Citizenship:TG100020001,TG100020001
+100020009,Generic Data Domain.Advanced Profile:Credit Score:TG100020009,TG100020009
+100020002,Generic Data Domain.Advanced Profile:Ethnicity:TG100020002,TG100020002
+100020015,Generic Data Domain.Advanced Profile:Eye Color:TG100020015,TG100020015
+100020011,Generic Data Domain.Advanced Profile:Gender:TG100020011,TG100020011
+100020016,Generic Data Domain.Advanced Profile:Hair Color:TG100020016,TG100020016
+100020017,Generic Data Domain.Advanced Profile:Height:TG100020017,TG100020017
+100020012,Generic Data Domain.Advanced Profile:Marital Status:TG100020012,TG100020012
+100020004,Generic Data Domain.Advanced Profile:National Origin:TG100020004,TG100020004
+100020010,Generic Data Domain.Advanced Profile:Ownership Information:TG100020010,TG100020010
+100020014,Generic Data Domain.Advanced Profile:Political Party Identification:TG100020014,TG100020014
+100020013,Generic Data Domain.Advanced Profile:Race:TG100020013,TG100020013
+100020007,Generic Data Domain.Advanced Profile:Real Estate Holding:TG100020007,TG100020007
+100020008,Generic Data Domain.Advanced Profile:Religion:TG100020008,TG100020008
+100020019,Generic Data Domain.Advanced Profile:Salary:TG100020019,TG100020019
+100020005,Generic Data Domain.Advanced Profile:Sexual Orientation:TG100020005,TG100020005
+100020006,Generic Data Domain.Advanced Profile:Trade Union Membership:TG100020006,TG100020006
+100020003,Generic Data Domain.Advanced Profile:Veteran Status:TG100020003,TG100020003
+100020018,Generic Data Domain.Advanced Profile:Weight:TG100020018,TG100020018
+100030003,Generic Data Domain.Birth Date:Age:TG100030003,TG100030003
+100030001,Generic Data Domain.Birth Date:Birth Date:TG100030001,TG100030001
+100030002,Generic Data Domain.Birth Date:Partial Birth Date:TG100030002,TG100030002
+100040001,Generic Data Domain.Birth Place:Birth Place:TG100040001,TG100040001
+100050001,Generic Data Domain.Communication Contents:Comments:TG100050001,TG100050001
+100050002,Generic Data Domain.Communication Contents:Comments NonSensitive:TG100050002,TG100050002
+100060001,Generic Data Domain.Criminal Background:Criminal Offence:TG100060001,TG100060001
+100060002,Generic Data Domain.Criminal Background:Criminal Record:TG100060002,TG100060002
+100060003,Generic Data Domain.Criminal Background:Proceedings From Crimes:TG100060003,TG100060003
+100060004,Generic Data Domain.Criminal Background:Restraining Orders:TG100060004,TG100060004
+100090001,Generic Data Domain.Digital Activity:Browsing Related Content:TG100090001,TG100090001
+100100001,Generic Data Domain.Digital Campaign:Survey Results:TG100100001,TG100100001
+100070006,Generic Data Domain.Educational Background:Academic Grade:TG100070006,TG100070006
+100070001,Generic Data Domain.Educational Background:Degrees Earned:TG100070001,TG100070001
+100070002,Generic Data Domain.Educational Background:Education Level:TG100070002,TG100070002
+100070003,Generic Data Domain.Educational Background:Educational Society Memberships:TG100070003,TG100070003
+100070004,Generic Data Domain.Educational Background:Grade Point Average:TG100070004,TG100070004
+100070005,Generic Data Domain.Educational Background:Honors:TG100070005,TG100070005
+100070007,Generic Data Domain.Educational Background:Schools Attended:TG100070007,TG100070007
+100110001,Generic Data Domain.Email:Email:TG100110001,TG100110001
+100110002,Generic Data Domain.Email:Email Work:TG100110002,TG100110002
+100290002,Generic Data Domain.Event Timestamp:Date and Time:TG100290002,TG100290002
+100120002,Generic Data Domain.Geo-Location:Vehicle Coords NonPrecise:TG100120002,TG100120002
+100120001,Generic Data Domain.Geo-Location:Vehicle Coords Precise:TG100120001,TG100120001
+100120004,Generic Data Domain.Geo-Location:Vehicle Latitude NonPrecise:TG100120004,TG100120004
+100120003,Generic Data Domain.Geo-Location:Vehicle Latitude Precise:TG100120003,TG100120003
+100120006,Generic Data Domain.Geo-Location:Vehicle Longitude NonPrecise:TG100120006,TG100120006
+100120005,Generic Data Domain.Geo-Location:Vehicle Longitude Precise:TG100120005,TG100120005
+100130002,Generic Data Domain.Government Identification:Drivers License Number:TG100130002,TG100130002
+100130003,Generic Data Domain.Government Identification:Government ID:TG100130003,TG100130003
+100130009,Generic Data Domain.Government Identification:License Plate Number:TG100130009,TG100130009
+100130004,Generic Data Domain.Government Identification:National ID:TG100130004,TG100130004
+100130005,Generic Data Domain.Government Identification:National Provider Identifier:TG100130005,TG100130005
+100130006,Generic Data Domain.Government Identification:Passport:TG100130006,TG100130006
+100130007,Generic Data Domain.Government Identification:Social Security Number:TG100130007,TG100130007
+100130008,Generic Data Domain.Government Identification:Taxpayer ID:TG100130008,TG100130008
+100130001,Generic Data Domain.Government Identification:Visa Number:TG100130001,TG100130001
+100140001,Generic Data Domain.Health Data:Health Plan Beneficiary Number:TG100140001,TG100140001
+100140002,Generic Data Domain.Health Data:Hospital Admission Date:TG100140002,TG100140002
+100140003,Generic Data Domain.Health Data:Hospital Discharge Date:TG100140003,TG100140003
+100140004,Generic Data Domain.Health Data:Intrntl Classification for Diseases:TG100140004,TG100140004
+100140006,Generic Data Domain.Health Data:Motability Authorization Number:TG100140006,TG100140006
+100140005,Generic Data Domain.Health Data:National Drug Code:TG100140005,TG100140005
+100150004,Generic Data Domain.Individual Identifier:CDSID:TG100150004,TG100150004
+100150002,Generic Data Domain.Individual Identifier:Customer ID:TG100150002,TG100150002
+100150001,Generic Data Domain.Individual Identifier:GUID:TG100150001,TG100150001
+100150003,Generic Data Domain.Individual Identifier:RACFID:TG100150003,TG100150003
+100160001,Generic Data Domain.Internal Audit Field:Audit Date:TG100160001,TG100160001
+100160002,Generic Data Domain.Internal Audit Field:Audit Status:TG100160002,TG100160002
+100170001,Generic Data Domain.Internal Field:Raw Payload:TG100170001,TG100170001
+100180001,Generic Data Domain.Internal Key:ShaKey:TG100180001,TG100180001
+100190001,Generic Data Domain.Internal Partition Field:Partition Date:TG100190001,TG100190001
+100190002,Generic Data Domain.Internal Partition Field:Partition Field:TG100190002,TG100190002
+100200004,Generic Data Domain.Likely Preferences:Entertainment Inferences:TG100200004,TG100200004
+100200006,Generic Data Domain.Likely Preferences:Language Code:TG100200006,TG100200006
+100200002,Generic Data Domain.Likely Preferences:Marketing Inferences:TG100200002,TG100200002
+100200005,Generic Data Domain.Likely Preferences:Non-Sensitive Preference:TG100200005,TG100200005
+100200001,Generic Data Domain.Likely Preferences:Personal Inferences:TG100200001,TG100200001
+100200003,Generic Data Domain.Likely Preferences:Service Inferences:TG100200003,TG100200003
+100210002,Generic Data Domain.Listening Habits:Favorite Music Playlist:TG100210002,TG100210002
+100210001,Generic Data Domain.Listening Habits:Radio Channel:TG100210001,TG100210001
+100220001,Generic Data Domain.Media Content:Audio Recordings:TG100220001,TG100220001
+100220002,Generic Data Domain.Media Content:Digital Image:TG100220002,TG100220002
+100220003,Generic Data Domain.Media Content:Video Recordings:TG100220003,TG100220003
+100230010,Generic Data Domain.Name:Account Name:TG100230010,TG100230010
+100230007,Generic Data Domain.Name:Alias Name:TG100230007,TG100230007
+100230002,Generic Data Domain.Name:First Name:TG100230002,TG100230002
+100230001,Generic Data Domain.Name:Full Name:TG100230001,TG100230001
+100230004,Generic Data Domain.Name:Last Name:TG100230004,TG100230004
+100230005,Generic Data Domain.Name:Maiden Name:TG100230005,TG100230005
+100230011,Generic Data Domain.Name:Middle Initial:TG100230011,TG100230011
+100230003,Generic Data Domain.Name:Middle Name:TG100230003,TG100230003
+100230006,Generic Data Domain.Name:Nick Name:TG100230006,TG100230006
+100230008,Generic Data Domain.Name:Screen Name:TG100230008,TG100230008
+100230009,Generic Data Domain.Name:User Name:TG100230009,TG100230009
+100240015,Generic Data Domain.Payment Information:Bank Account Number:TG100240015,TG100240015
+100240016,Generic Data Domain.Payment Information:Bank Routing Number:TG100240016,TG100240016
+100240003,Generic Data Domain.Payment Information:Credit Card Number:TG100240003,TG100240003
+100240010,Generic Data Domain.Payment Information:Digital Security Key:TG100240010,TG100240010
+100240012,Generic Data Domain.Payment Information:Digital Security Question:TG100240012,TG100240012
+100240011,Generic Data Domain.Payment Information:Digital Security Token:TG100240011,TG100240011
+100240013,Generic Data Domain.Payment Information:Digital Signature:TG100240013,TG100240013
+100240014,Generic Data Domain.Payment Information:Digital Wallet Password:TG100240014,TG100240014
+100240001,Generic Data Domain.Payment Information:Payment Card Chip Id:TG100240001,TG100240001
+100240017,Generic Data Domain.Payment Information:Payment Card ExpirationDate:TG100240017,TG100240017
+100240002,Generic Data Domain.Payment Information:Payment Card Magstrip:TG100240002,TG100240002
+100240004,Generic Data Domain.Payment Information:Payment Card SecurityCode:TG100240004,TG100240004
+100240005,Generic Data Domain.Payment Information:Payment Method:TG100240005,TG100240005
+100240006,Generic Data Domain.Payment Information:Purchase History:TG100240006,TG100240006
+100240007,Generic Data Domain.Payment Information:Virtual Wallet AccountInfo:TG100240007,TG100240007
+100240008,Generic Data Domain.Payment Information:Virtual Wallet Token:TG100240008,TG100240008
+100240009,Generic Data Domain.Payment Information:Virtual Wallet Transhistory:TG100240009,TG100240009
+100250002,Generic Data Domain.Phone:Phone Number:TG100250002,TG100250002
+100250001,Generic Data Domain.Phone:Phone Number Landline:TG100250001,TG100250001
+100250003,Generic Data Domain.Phone:Phone Number Work:TG100250003,TG100250003
+100080001,Generic Data Domain.Professional Background:Certifications:TG100080001,TG100080001
+100080006,Generic Data Domain.Professional Background:Company Name:TG100080006,TG100080006
+100080002,Generic Data Domain.Professional Background:Employer :TG100080002,TG100080002
+100080003,Generic Data Domain.Professional Background:Employment History:TG100080003,TG100080003
+100080004,Generic Data Domain.Professional Background:Employment Type:TG100080004,TG100080004
+100080005,Generic Data Domain.Professional Background:Professional Membership:TG100080005,TG100080005
+100260003,Generic Data Domain.Smart Device:Device Details:TG100260003,TG100260003
+100260005,Generic Data Domain.Smart Device:Device Location NonPrecise:TG100260005,TG100260005
+100260004,Generic Data Domain.Smart Device:Device Location Precise:TG100260004,TG100260004
+100260002,Generic Data Domain.Smart Device:Device Serial Number:TG100260002,TG100260002
+100260001,Generic Data Domain.Smart Device:IP Address:TG100260001,TG100260001
+100270005,Generic Data Domain.Subsciption Preferences:In App Purchase:TG100270005,TG100270005
+100270003,Generic Data Domain.Subsciption Preferences:Mobile Carrier Plan:TG100270003,TG100270003
+100270001,Generic Data Domain.Subsciption Preferences:Preference Setting:TG100270001,TG100270001
+100270002,Generic Data Domain.Subsciption Preferences:Service Subscription:TG100270002,TG100270002
+100270004,Generic Data Domain.Subsciption Preferences:Warranty Related Purchase:TG100270004,TG100270004
+100280003,Generic Data Domain.Vehicle Identifiers:Fleet Identification Number:TG100280003,TG100280003
+100280002,Generic Data Domain.Vehicle Identifiers:Registration Number:TG100280002,TG100280002
+100280001,Generic Data Domain.Vehicle Identifiers:VIN:TG100280001,TG100280001
+100290001,Generic Data Domain.Vehicle Service History:Dealer Code :TG100290001,TG100290001
+0,No Applicable Tag,TG000000000

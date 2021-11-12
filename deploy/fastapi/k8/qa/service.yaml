@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: pii-tagging-api-service
+  namespace: skim78
+spec:
+  selector:
+    app: pii-tagging-api
+  ports:
+    - name: http
+      port: 8000

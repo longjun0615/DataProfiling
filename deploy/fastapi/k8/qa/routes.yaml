@@ -1,0 +1,21 @@
+apiVersion: networking.istio.io/v1alpha3
+kind: VirtualService
+metadata:
+  name: pii-tagging-api-route
+  namespace: skim78
+spec:
+  gateways:
+  - gateway/mach1
+  hosts:
+  - '*'
+  http:
+  - match:
+    - uri:
+        prefix: /skim78/pii-tagging
+    rewrite:
+      uri: " "
+    route:
+    - destination:
+        host: pii-tagging-api-service.skim78.svc.cluster.local
+        port:
+          number: 8000

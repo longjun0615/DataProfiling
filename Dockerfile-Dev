@@ -1,0 +1,11 @@
+  
+#docker build --build-arg http_proxy=http://internet.ford.com:83 --build-arg https_proxy=http://internet.ford.com:83 -f Dockerfile-Dev -t hpcregistry.hpc.ford.com/skim78/pii-tagging:debug .
+#docker run -p 8000:8000 hpcregistry.hpc.ford.com/skim78/pii_tagging:debug uvicorn --host 0.0.0.0 --port 8000 main:app --reload
+
+FROM hpcregistry.hpc.ford.com/skim78/pii-tagging:v1.2
+
+COPY . /usr/local/PIITagging
+
+RUN pip3 install /usr/local/PIITagging
+
+WORKDIR /usr/local/PIITagging/app/

@@ -1,0 +1,46 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: pii-tagging-api-app
+  namespace: skim78
+  labels:
+    app: pii-tagging-api
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: pii-tagging-api
+  template:
+    metadata:
+      labels:
+        app: pii-tagging-api
+    spec:
+      containers:
+      - name: pii-tagging-api-container
+        image: hpcregistry.hpc.ford.com/skim78/pii-tagging:v1.1
+        imagePullPolicy: Always
+        command: [ "uvicorn", "--root-path", "/skim78/pii-tagging/" , "--port", "8000", "--host", "0.0.0.0", "main:app"]
+        env:
+            - name: DATA_DIR
+              value: /mnt/
+        resources:
+          requests:
+            memory: "8G"
+            cpu: "2"
+            nvidia.com/gpu: 0
+          limits:
+            memory: "8G"
+            cpu: "2"
+            nvidia.com/gpu: 0
+        volumeMounts:
+            - name: pii-tagging-api-storage-data
+              mountPath: /mnt/
+        ports:
+          - containerPort: 8000
+            name: http
+      volumes:
+        - name: pii-tagging-api-storage-data
+          persistentVolumeClaim:
+            claimName: pii-tagging-api-storage-data-claim
+      imagePullSecrets:
+        - name: skim78-pull-secret

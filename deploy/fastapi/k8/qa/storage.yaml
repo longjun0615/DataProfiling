@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: pii-tagging-api-storage-data-claim
+  namespace: skim78 
+spec:
+  accessModes:
+  - ReadWriteMany
+  resources:
+    requests:
+      storage: 35Gi
